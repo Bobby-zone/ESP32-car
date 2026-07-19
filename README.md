@@ -24,7 +24,7 @@ The potentiometer position determines:
 
 ### Wiring 1
 
-![wiring-potentiometer-control](pot_control.png)
+![wiring-potentiometer-control](wiring/pot_control.png)
 
 ## Project 2 - Wifi controller
 
@@ -40,7 +40,7 @@ After connect to wifi open: http://192.168.4.1
 
 ### Wiring 2
 
-![wiring-wifi-control](wifi-control.png)
+![wiring-wifi-control](wiring/wifi-control.png)
 
 ## License
 
