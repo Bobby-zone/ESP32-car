@@ -40,7 +40,7 @@ After connect to wifi open: http://192.168.4.1
 
 ### Wiring 2
 
-![wiring-wifi-control](wiring/wifi-control.png)
+![wiring-wifi-control](wiring/wifi_control.png)
 
 ## License
 
