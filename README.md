@@ -33,8 +33,8 @@ The potentiometer position determines:
 This project controls the motor direction and speed using wifi.
 The ESP32 creates its own Wi-Fi Access Point and hosts a web interface for controlling the motors.
 
-SSID = ESP32-Car
-Password = 12345678
+SSID = ESP32-Car.
+Password = 12345678.
 
 After connect to wifi open: http://192.168.4.1
 
